@@ -1,0 +1,20 @@
+.bio span {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.bio img {
+    width: 100px;
+}
+
+.contact h2 {
+    font-size: 2rem;
+    color: blue;
+}
+
+.name h2 {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
